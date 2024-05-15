@@ -1,7 +1,8 @@
-.banner-image {
-  object-fit: scale-down !important;
-}
 
-.img {
-  object-fit: scale-down !important;
+
+.banner-image img,
+.banner-image picture {
+
+    object-fit: scale-down !important;
+
 }
