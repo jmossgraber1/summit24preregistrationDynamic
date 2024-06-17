@@ -2,3 +2,7 @@
     display: none !important;
 
 }
+
+app-notification.ng-trigger.ng-trigger-enterLeave {
+ display: none !important;
+}
